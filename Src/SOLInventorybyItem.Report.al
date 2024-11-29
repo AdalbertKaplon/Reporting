@@ -23,8 +23,8 @@ report 50100 "SOL Inventory by Item"
             {
 
             }
-        
-            
+
+
             dataitem(ItemLedgerEntryDataItem; "Item Ledger Entry")
             {
                 DataItemLink = "Item No." = field("No.");
