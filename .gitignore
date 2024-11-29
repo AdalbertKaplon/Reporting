@@ -1,0 +1,5 @@
+.alpackages/Microsoft_Application_24.4.22295.22925.app
+.alpackages/*.app
+.vscode/*.*
+*.app
+*.zip
